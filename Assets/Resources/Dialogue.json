@@ -1,0 +1,49 @@
+[
+	{
+		"Id": 100,
+		"Text": [
+		"너희 여기서 뭐하는 거니?",
+		"게임하는데요",
+		"처음보는 게임긴데...",
+		"아저씨 이거 몰라요?",
+		"닌틴도에서 새로 나온 게임기 이프 2인데",
+		"오 아저씨 한판만 해봐도 될까?",
+		"음...",
+		"그래요 그럼"
+		],
+		"IsMe": [
+		true,
+		false,
+		true,
+		false,
+		false,
+		true,
+		false,
+		false
+		],
+		"IsConvDone": false
+	},
+	{
+		"Id": 101,
+		"Text": [
+		"아저씨 한판만 더 해도 될까?",
+		"에휴"
+		],
+		"IsMe": [
+		true,
+		false
+		],
+		"IsConvDone": false
+	},
+	{
+		"Id": 200,
+		"Text": [
+		"안녕하세요~",
+		],
+		"IsMe": [
+		true,
+		true
+		],
+		"IsConvDone": false
+	}
+]
